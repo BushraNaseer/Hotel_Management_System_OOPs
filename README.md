@@ -162,8 +162,6 @@ The running application can be opened on CLI.
    ./HotelManagement
    ```
 
-*Note: Update the compilation command according to the actual source filenames and dependencies in the repository.*
-
 ---
 
 ## 📂 Repository Structure
@@ -174,14 +172,11 @@ Hotel-Management-System/
 ├── src/
 │   └── main.cpp
 │
-├── docs/
-│   ├── Project-Proposal.pdf
-│   └── screenshots/
-│
+├── docs
+│   └── Project-Proposal.pdf
+│   
 └── README.md
 ```
-
-*The directory structure may be adjusted to match the uploaded source files.*
 
 ---
 
