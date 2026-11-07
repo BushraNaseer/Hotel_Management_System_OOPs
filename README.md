@@ -1,6 +1,6 @@
 # 🏨 Hotel Management System | C++
 
-A C++-based Hotel Management System developed using Object-Oriented Programming (OOP) concepts as part of the Programming Language Laboratory course at the Institute of Space Technology (IST), Islamabad.
+A C++ based Hotel Management System developed using Object-Oriented Programming (OOP) concepts as part of the Programming Language Laboratory course (2021) at the Institute of Space Technology (IST), Islamabad.
 
 The application simulates essential hotel management operations, including room reservations, customer information management, booking modifications, cancellation, billing, and complaint handling. It demonstrates the practical application of C++ programming concepts through a modular and function-oriented software design.
 
